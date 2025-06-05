@@ -5,7 +5,7 @@
 
 <!-- Avatar -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-username" width="150" style="border-radius: 50%" />
+  <img src="https://avatars.githubusercontent.com/u/mehnafiz" width="150" style="border-radius: 50%" />
 </p>
 
 <!-- Social Icons -->
