@@ -1,14 +1,7 @@
 <!-- Header Banner -->
-<!-- Stylish Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=850&height=90&lines=Hi+there+%F0%9F%91%8B+I'm+Nafiz+Ahmed.;A+Creative+Full-Stack+Learner+from+Bangladesh.;Loves+Flutter+%F0%9F%A7%A1+Java+%E2%9C%A8+Cybersecurity+%F0%9F%94%93+UI%2FUX+%F0%9F%92%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F1F6F9&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Nafiz+Ahmed!;Aspiring+Full-Stack+Developer+%F0%9F%92%BB;Lover+of+Code%2C+UI%2FUX%2C+and+Creativity!" alt="Typing SVG" />
 </p>
-
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://github.com/mehnafiz.png" width="170" style="border-radius: 50%;" />
-</p>
-
 
 <!-- Social Icons -->
 <p align="center">
@@ -23,7 +16,7 @@
   </a>
 </p>
 
-
+---
 ### 🔮 About Me
 
 > 🧠 A passionate developer shaping my future, one commit at a time.
