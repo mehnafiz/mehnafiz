@@ -1,14 +1,28 @@
+<!-- Header Banner -->
 <!-- Stylish Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=850&height=90&lines=Hi+there+%F0%9F%91%8B+I'm+Nafiz+Ahmed.;A+Creative+Full-Stack+Learner+from+Bangladesh.;Loves+Flutter+%F0%9F%A7%A1+Java+%E2%9C%A8+Cybersecurity+%F0%9F%94%93+UI%2FUX+%F0%9F%92%A8" alt="Typing SVG" />
 </p>
 
-<!-- Profile Picture (optional hosted version) -->
+<!-- Profile Picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-username" width="170" style="border-radius: 50%;" />
+  <img src="https://github.com/mehnafiz.png" width="170" style="border-radius: 50%;" />
 </p>
 
----
+
+<!-- Social Icons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-nafiz-ahmed-tanim-54bb47358" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/nafiztanim" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/nafiz.tanim" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
 
 ### 🔮 About Me
 
