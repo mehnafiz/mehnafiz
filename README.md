@@ -37,12 +37,6 @@
   <a href="https://www.linkedin.com/in/md-nafiz-ahmed-tanim-54bb47358" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
   </a>
-  <a href="https://facebook.com/mehnafiz" target="_blank"
-    <img src="https://skillicons.dev/icons?i=facebook" height="35" />
-  </a>
-  <a href="https://instagram.com/nafiz._.ahmeddd" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="35" />
-  </a>
 </p>
 
 ---
