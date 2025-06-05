@@ -95,5 +95,5 @@
 
 ```bash
 📧 Email: nafiz.ahmed@example.com
-💬 Messenger: fb.com/nafiztanim
+💬 Messenger: fb.com/nafiz
 📱 Insta: @nafiz.tanim
