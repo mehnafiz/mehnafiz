@@ -1,88 +1,92 @@
-<!-- Header Banner -->
+<!-- Stylish Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F1F6F9&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Nafiz+Ahmed!;Aspiring+Full-Stack+Developer+%F0%9F%92%BB;Lover+of+Code%2C+UI%2FUX%2C+and+Creativity!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=850&height=90&lines=Hi+there+%F0%9F%91%8B+I'm+Nafiz+Ahmed.;A+Creative+Full-Stack+Learner+from+Bangladesh.;Loves+Flutter+%F0%9F%A7%A1+Java+%E2%9C%A8+Cybersecurity+%F0%9F%94%93+UI%2FUX+%F0%9F%92%A8" alt="Typing SVG" />
 </p>
 
+<!-- Profile Picture (optional hosted version) -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-username" width="170" style="border-radius: 50%;" />
+</p>
 
-<!-- Social Icons -->
+---
+
+### 🔮 About Me
+
+> 🧠 A passionate developer shaping my future, one commit at a time.
+
+- 👨‍🎓 4th Semester CSE @ AIUB  
+- 🔭 Currently building **apps, tools & creative UIs**  
+- 🧑‍💻 Teaming up to make cool full-stack projects  
+- 🛠️ Tech I love: Flutter, Java, Dart, Cyber  
+- 🌎 Based in Dhaka, dreaming globally  
+- 🧃 I turn caffeine into code  
+- 🎯 Goal: Build beautiful and powerful software
+
+---
+
+### 🌐 Let's Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/md-nafiz-ahmed-tanim-54bb47358" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
   </a>
   <a href="https://facebook.com/nafiztanim" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=facebook" height="35" />
   </a>
   <a href="https://instagram.com/nafiz.tanim" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="35" />
   </a>
 </p>
 
 ---
 
-### 🌟 About Me
-
-- 🎓 4th Semester CSE Student at AIUB  
-- 🔧 Passionate about Full-Stack Development, UI/UX, and Cybersecurity  
-- 🛠️ Skilled in `Flutter`, `Java`, `Dart`, `Linux`, and `Web`  
-- 🤝 Building apps & tools with my team at university  
-- 🌍 From Dhaka, Bangladesh  
-- 🎯 Goal: Build clean, modern, and powerful applications  
-- 🧩 Fun fact: I spend hours fixing one tiny bug – happily 😄
-
----
-
-### 🧰 Tech Stack
+### 🛠️ My Tech Toolbox
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,js,html,css,linux,figma,vscode" />
 </p>
 
 ---
 
-### 📈 Stats & Contributions
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehnafiz&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehnafiz&layout=compact&theme=radical" height="180"/>
-</div>
-
----
-
-### 🏆 Trophies
+### 🚀 GitHub Stats (Auto Updates)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehnafiz&theme=gruvbox&column=7&margin-w=5&no-frame=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehnafiz&show_icons=true&theme=dracula&border_radius=10&hide=prs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehnafiz&layout=compact&theme=dracula&border_radius=10" height="180" />
 </p>
 
 ---
 
-### 📊 Contribution Graph
+### ⚡ GitHub Streak & Trophy Wall
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehnafiz&theme=react-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mehnafiz&theme=dark&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=mehnafiz&theme=darkhub&margin-w=15&no-frame=true" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 📊 Activity Graph
 
-| Project Name | Description |
-|--------------|-------------|
-| 📱 **CGPA Calculator** | Flutter app to calculate AIUB CGPA semester-wise |
-| 🟡 **Java Journey** | All my hands-on practice in core Java |
-| 🔵 **Dart Learning** | Beginner-to-intermediate Dart code archive |
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehnafiz&theme=react-dark&area=true&hide_border=true" />
+</p>
 
 ---
 
-### 📬 Get in Touch
+### 💼 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/mehnafiz/aiub_cgpa_calculator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehnafiz&repo=aiub_cgpa_calculator&theme=radical" /></a>
+  <a href="https://github.com/mehnafiz/todoapp"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehnafiz&repo=todoapp&theme=radical" /></a>
+</p>
+
+---
+
+### 📫 Reach Me
 
 ```bash
-💬 Messenger: fb.com/nafiz 
-📧 Email: mehnafiz@gmail.com  
-📱 Instagram: @nafiz._.ahmeddd
+📧 Email: nafiz.ahmed@example.com
+💬 Messenger: fb.com/nafiztanim
+📱 Insta: @nafiz.tanim
