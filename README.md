@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F1F6F9&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Nafiz+Ahmed!;Aspiring+Full-Stack+Developer+%F0%9F%92%BB;Lover+of+Code%2C+UI%2FUX%2C+and+Creativity!" alt="Typing SVG" />
 </p>
 
-<!-- Avatar -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/mehnafiz" width="150" style="border-radius: 50%" />
-</p>
 
 <!-- Social Icons -->
 <p align="center">
