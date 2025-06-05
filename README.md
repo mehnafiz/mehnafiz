@@ -76,19 +76,6 @@
 
 ---
 
-### 💼 Pinned Projects
-
-<a href="https://github.com/mehnafiz/aiub_cgpa_calulator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehnafiz&repo=aiub_cgpa_calulator&theme=radical" />
-</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mehnafiz/todoapp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehnafiz&repo=todoapp&theme=radical" />
-  </a>
-</p>
-
----
-
 ### 📫 Reach Me
 
 ```bash
