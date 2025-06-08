@@ -1,6 +1,6 @@
 <!-- Wavy Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20I'm%20Nafiz%20Ahmed!&fontAlign=40&fontAlignY=40&color=0:0A66C2,100:00ADEF&fontColor=FFFFFF&desc=A+Creative+Full-Stack+Developer+From+Dhaka&descSize=20&descAlign=60&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Nafiz%20Ahmed!&fontAlign=40&fontAlignY=40&color=0:0A66C2,100:00ADEF&fontColor=FFFFFF&desc=A+Creative+Full-Stack+Developer+From+Dhaka&descSize=20&descAlign=60&descAlignY=70" />
 </p>
 
 <!-- Header Typing Banner -->
