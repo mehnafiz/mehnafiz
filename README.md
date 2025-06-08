@@ -59,9 +59,8 @@
 <p align="center">
   <!-- 🔥 Flame-Streak with Glow -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mehnafiz&theme=highcontrast&fire=FF4500&ring=FF0000&currStreakLabel=FF3131&sideNums=FFD700&sideLabels=FF6347&dates=FF8C00&background=0F0F0F&border_radius=10" />
-  <br /><br />
-  <!-- 🏆 Lava Trophy Wall -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mehnafiz&theme=algolia&title=Commit,Stars,Followers,Repositories&no-frame=true&column=4&margin-w=15" />
+  <br />  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=mehnafiz&theme=gruvbox&margin-w=15&no-frame=true" />
 </p>
 
 
@@ -80,9 +79,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/md-nafiz-ahmed-tanim-54bb47358" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
-  </a>
-  <a href="https://facebook.com/mehnafiz" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="35" />
   </a>
   <a href="https://instagram.com/nafiz._.ahmeddd" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="35" />
