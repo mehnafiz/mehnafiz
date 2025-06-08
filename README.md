@@ -41,21 +41,24 @@
 
 ### 🚀 My Tech Toolbox
 
+<!-- 🌐 Tech Icons -->
 <p align="center">
-  
-  <!-- Skillicons (auto-generated tech icons) -->
   <img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,js,react,nodejs,express,mongodb,firebase,html,css,linux,figma,vscode&perline=8" />
-  <br /><br />
+</p>
 
-  <!-- Custom Badges (not on skillicons.dev) -->
+<!-- 🛠️ Extra Tools (Badges for unsupported icons) -->
+<p align="center">
   <img src="https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
-  <br /><br />
-
-  <!-- Cursor Code Editor Logo -->
-  <img src="https://brandlogos.net/wp-content/uploads/2025/04/cursor_code_editor-logo_brandlogos.net_r1yfy-512x512.png" height="60" alt="Cursor Code Editor" />
 </p>
+
+<!-- 🖥️ Favorite Editor -->
+<p align="center">
+  <b>🖱️ Favorite Code Editor:</b><br />
+  <img src="https://brandlogos.net/wp-content/uploads/2025/04/cursor_code_editor-logo_brandlogos.net_r1yfy-512x512.png" height="60" alt="Cursor Code Editor Logo" />
+</p>
+
 
 
 
