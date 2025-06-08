@@ -1,6 +1,6 @@
 <!-- Wavy Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Nafiz%20Ahmed%20Tanim!&fontAlign=40&fontAlignY=40&color=0:0A66C2,100:00ADEF&fontColor=FFFFFF&desc=A+Creative+Full-Stack+Developer+From+Dhaka&descSize=20&descAlign=60&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Nafiz%20Ahmed%20Tanim&fontAlign=40&fontAlignY=40&color=0:0A66C2,100:00ADEF&fontColor=FFFFFF&desc=A+Creative+Full-Stack+Developer+From+Dhaka&descSize=20&descAlign=60&descAlignY=70" />
 </p>
 
 <!-- Header Typing Banner -->
@@ -55,10 +55,13 @@
 
 ### 🔥 GitHub Streak & Trophy Wall
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mehnafiz&theme=gruvbox&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=mehnafiz&theme=gruvbox&margin-w=15&no-frame=true" />
+  <!-- Fire-Styled Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mehnafiz&theme=red&ring=FF0000&fire=FF6B6B&currStreakLabel=FF5555&sideNums=FFAAAA&dates=FF4444&sideLabels=FF6666&background=0D1117&border_radius=8" />
+  <br /><br />
+  <!-- Fiery Trophy Wall -->
+  <img src="https://github-profile-trophy.vercel.app/?username=mehnafiz&theme=darkhub&title=Commit,Stars,Followers,Repositories&no-frame=true&column=4&margin-w=15&no-bg=true" />
 </p>
 
 
