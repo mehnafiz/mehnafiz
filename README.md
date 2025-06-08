@@ -42,7 +42,7 @@
 ### 🚀 My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,js,html,css,linux,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,js,html,css,linux,figma,vscode,cursor" />
 </p>
 
 ---
