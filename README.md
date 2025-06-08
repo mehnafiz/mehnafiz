@@ -9,6 +9,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B+I'm+Nafiz+Ahmed!;Creative+Full-Stack+Engineer+%F0%9F%92%BB;Passionate+About+Code%2C+UI%2FUX%2C+Cybersecurity!&background=000000" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B+I'm+Nafiz+Ahmed!;Creative+Full-Stack+Engineer+%F0%9F%92%BB;Passionate+About+Code%2C+UI%2FUX%2C+Cybersecurity!&background=FF512F,DD2476" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B+I'm+Nafiz+Ahmed!;Creative+Full-Stack+Engineer+%F0%9F%92%BB;Passionate+About+Code%2C+UI%2FUX%2C+Cybersecurity!&background=0f2027,203a43,2c5364" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B+I'm+Nafiz+Ahmed!;Creative+Full-Stack+Engineer+%F0%9F%92%BB;Passionate+About+Code%2C+UI%2FUX%2C+Cybersecurity!&background=41295a,2F0743" alt="Typing SVG" />
+</p>
+
+
 
 <!-- Social Icons -->
 <p align="center">
