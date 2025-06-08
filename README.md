@@ -42,17 +42,24 @@
 ### 🚀 My Tech Toolbox
 
 <p align="center">
-  <!-- Typing Title with Cursor -->
+  <!-- Typing Banner -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=💻+Languages+%26+Tools+I+Love..." />
   <br /><br />
-  
-  <!-- Tech Stack Icons -->
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,js,react,nodejs,express,mongodb,firebase,json,html,css,linux,figma,vscode&perline=8" />
+
+  <!-- Skillicons (auto-generated tech icons) -->
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,js,react,nodejs,express,mongodb,firebase,json,html,css,linux,figma,vscode&perline=8" />
   <br /><br />
-  
-  <!-- Extra: Oracle SQL (custom badge since not on skillicons.dev) -->
+
+  <!-- Custom Badges (not on skillicons.dev) -->
   <img src="https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <br /><br />
+
+  <!-- Cursor Code Editor Logo -->
+  <img src="https://brandlogos.net/wp-content/uploads/2025/04/cursor_code_editor-logo_brandlogos.net_r1yfy-512x512.png" height="60" alt="Cursor Code Editor" />
 </p>
+
 
 
 ---
