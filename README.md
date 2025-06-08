@@ -42,12 +42,9 @@
 ### 🚀 My Tech Toolbox
 
 <p align="center">
-  <!-- Typing Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=💻+Languages+%26+Tools+I+Love..." />
-  <br /><br />
-
+  
   <!-- Skillicons (auto-generated tech icons) -->
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,js,react,nodejs,express,mongodb,firebase,json,html,css,linux,figma,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,js,react,nodejs,express,mongodb,firebase,html,css,linux,figma,vscode&perline=8" />
   <br /><br />
 
   <!-- Custom Badges (not on skillicons.dev) -->
