@@ -42,8 +42,11 @@
 ### 🚀 My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,js,html,css,linux,figma,vscode,cursor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=💻+Languages+%26+Tools+I+Love...;&center=true&vCenter=true&background=000000&height=50" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,js,html,css,linux,figma,vscode&perline=8" />
 </p>
+
 
 ---
 
