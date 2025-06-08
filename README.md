@@ -42,7 +42,16 @@
 ### 🚀 My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,js,html,css,linux,figma,vscode" />
+  <!-- Typing Title with Cursor -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=💻+Languages+%26+Tools+I+Love..." />
+  <br /><br />
+  
+  <!-- Tech Stack Icons -->
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,js,react,nodejs,express,mongodb,firebase,json,html,css,linux,figma,vscode&perline=8" />
+  <br /><br />
+  
+  <!-- Extra: Oracle SQL (custom badge since not on skillicons.dev) -->
+  <img src="https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 
