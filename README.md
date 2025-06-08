@@ -57,11 +57,11 @@
 
 
 <p align="center">
-  <!-- Fire-Styled Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mehnafiz&theme=red&ring=FF0000&fire=FF6B6B&currStreakLabel=FF5555&sideNums=FFAAAA&dates=FF4444&sideLabels=FF6666&background=0D1117&border_radius=8" />
+  <!-- 🔥 Flame-Streak with Glow -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mehnafiz&theme=highcontrast&fire=FF4500&ring=FF0000&currStreakLabel=FF3131&sideNums=FFD700&sideLabels=FF6347&dates=FF8C00&background=0F0F0F&border_radius=10" />
   <br /><br />
-  <!-- Fiery Trophy Wall -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mehnafiz&theme=darkhub&title=Commit,Stars,Followers,Repositories&no-frame=true&column=4&margin-w=15&no-bg=true" />
+  <!-- 🏆 Lava Trophy Wall -->
+  <img src="https://github-profile-trophy.vercel.app/?username=mehnafiz&theme=algolia&title=Commit,Stars,Followers,Repositories&no-frame=true&column=4&margin-w=15" />
 </p>
 
 
