@@ -1,6 +1,6 @@
-<!-- Wavy Header -->
+<!-- 🔥 Fiery Wavy Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Nafiz%20Ahmed%20Tanim&fontAlign=40&fontAlignY=40&color=0:0A66C2,100:00ADEF&fontColor=FFFFFF&desc=A+Creative+Full-Stack+Developer+From+Dhaka&descSize=20&descAlign=60&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Nafiz%20Ahmed%20Tanim&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=A%20Fearless%20Full-Stack%20Developer%20Forged%20in%20Code%20🔥&descSize=20&descAlign=50&descAlignY=70&color=FF0000,8B0000" />
 </p>
 
 <!-- Header Typing Banner -->
