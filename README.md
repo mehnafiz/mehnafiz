@@ -43,7 +43,7 @@
 
 <!-- 🌐 Tech Icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,js,react,nodejs,express,mongodb,firebase,html,css,linux,figma,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,js,react,nodejs,express,mongodb,firebase,html,css,linux,figma,vscode,androidstudio,netbeans&perline=10" />
 </p>
 
 <!-- 🛠️ Extra Tools (Badges for unsupported icons) -->
@@ -58,6 +58,7 @@
   <b>🖱️ Favorite Code Editor:</b><br />
   <img src="https://brandlogos.net/wp-content/uploads/2025/04/cursor_code_editor-logo_brandlogos.net_r1yfy-512x512.png" height="60" alt="Cursor Code Editor Logo" />
 </p>
+
 
 
 
