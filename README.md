@@ -1,6 +1,6 @@
 <!-- ⚡ CyberTech Hero Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&width=1000&section=header&text=Nafiz%20Ahmed%20Tanim&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Crafting%20Code%20with%20Vision%20%7C%20UI%2FUX%20%2B%20Full-Stack%20Engineer&descSize=20&descAlign=50&descAlignY=70&color=0f2027,203a43,2c5364" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&width=1000&section=header&text=Nafiz%20Ahmed%20Tanim&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Crafting%20Code%20with%20Vision%20%7C%20UI%2FUX%20%2B%20Vibe%20Coder&descSize=20&descAlign=50&descAlignY=70&color=0f2027,203a43,2c5364" />
 </p>
 
 <!-- Typing Animation Banner -->
