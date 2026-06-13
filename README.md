@@ -27,7 +27,7 @@
 
 > 🧠 A passionate developer shaping my future, one commit at a time.
 
-- 🎓 7th Semester CSE @ **AIUB**
+- 🎓 8th Semester CSE @ **AIUB**
 - 🛠️ Tech Enthusiast: **Flutter**, **Java**, **Dart**, **Linux**, **Cybersecurity**
 - 🧑‍💻 Building apps, tools & creative UIs
 - 🤝 Collaborating on full-stack projects with awesome people
